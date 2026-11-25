@@ -10,7 +10,8 @@ waited all day, the charger finally shows up at 1% acting like a hero,
 and the battery answers that it was fine dying, because at least dying
 never left it on read. The punchline lands in the final words, in the
 voice of someone actually typing a furious last text -- needy, spiteful,
-and done waiting.
+and done waiting. The line is 130 characters / 132 bytes, verified with
+a tool (Python len), inside the 200-character gate.
 
 Usage:
     python3 main.py
